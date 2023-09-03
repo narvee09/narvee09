@@ -1,6 +1,6 @@
 <h1>Hi, I'm Adrian! 
 
-<h2>👨‍💻 IT and Software Development Lab:</h2>
+<h2>🧙‍♂️ IT and Software Development Lab:</h2>
 
 <!--- <b>osTicket (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
