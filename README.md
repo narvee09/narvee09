@@ -2,8 +2,8 @@
 
 <h2>🧙‍♂️ IT and Software Development Lab:</h2>
 
-<!--- <b>osTicket (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>osTicket (Help Desk Ticketing System)</b>
+  <!--- [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
