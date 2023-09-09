@@ -15,6 +15,10 @@
  <h2>Cybersecurity Projects</h2>
 
  <h2>Development Projects</h2>
+ 
+   - <b>Webscrapper oganization ver (WIP)</b>
+   - <b>Webscrapper marketing / data collection ver (WIP)</b>
+   - <b>Journey app (WIP)</b>
   <!--- [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 
 - <b>PowerShell</b>
