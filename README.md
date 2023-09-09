@@ -2,6 +2,9 @@
 
 <h2>🧙‍♂️ IT and Software Development Lab:</h2>
 
+-<b>Virtual Resources</b>
+ - Domain Controller
+
 - <b>Microsoft Azure</b>
   -  subordinate bullet view test
 
@@ -11,7 +14,7 @@
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
  
-
+<b>Journey app (WIP)</b>
 
 <h2> 🤳 Connect with me:</h2>
 
