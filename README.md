@@ -2,6 +2,9 @@
 
 <h2>🧙‍♂️ IT and Software Development Lab:</h2>
 
+- <b>Microsoft Azure</b>
+  -  subordinate bullet view test
+
 - <b>osTicket (Help Desk Ticketing System)</b>
   <!--- [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 
