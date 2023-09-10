@@ -11,7 +11,7 @@
   -  Network File sharing and permissions
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-    -  osTicket: Installation
+    -  <a href = https://github.com/narvee09/osTicket-installation>osTicket: Installation</a>
     -  osTicket: Post-Installation Configuration
     -  osTicket: Examples
 
