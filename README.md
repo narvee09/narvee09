@@ -8,9 +8,12 @@
    <!---Developer enviornment--->
 
 - <b>Microsoft Azure</b>
-  -  subordinate bullet view test
+  -  Network File sharing and permissions
 
 - <b>osTicket (Help Desk Ticketing System)</b>
+    -  osTicket: Installation
+    -  osTicket: Post-Installation Configuration
+    -  osTicket: Examples
 
  <h2>Cybersecurity Projects</h2>
 
@@ -19,16 +22,16 @@
    - <b>Webscrapper oganization ver (WIP)</b>
    - <b>Webscrapper marketing / data collection ver (WIP)</b>
    - <b>Journey app (WIP)</b>
-  <!--- [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  <!--- 
 
 - <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
+  
  
 <b>Journey app (WIP)</b>
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
 
 
 [linkedin]: www.linkedin.com/in/adriancarter-in
