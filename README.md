@@ -3,8 +3,8 @@
 <h2>🧙‍♂️ IT and Software Development Lab:</h2>
 
 - <b>Virtual Resources</b>
-  - <a href = https://github.com/narvee09/Server-Creation-DC> Server Creation (Domain Controller)<a/>
-  - Client Creation
+  - <a href = https://github.com/narvee09/Server-Creation-DC> Server Creation (Domain Controller)</a>
+  - <a href = https://github.com/narvee09/Client-Creation-VM-> Client Creation </a>
    <!---Developer enviornment--->
 
 - <b>Microsoft Azure</b>
