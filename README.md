@@ -4,7 +4,7 @@
 
 - <b>Virtual Resources</b>
   - <a href = https://github.com/narvee09/Server-Creation-DC> Server Creation (Domain Controller)</a>
-  - <a href = https://github.com/narvee09/Client-Creation-VM-> Client Creation </a>
+  - <a href = https://github.com/narvee09/Client-Creation-VM-> Client Creation (Virtual Machine) </a>
    <!---Developer enviornment--->
 
 - <b>Microsoft Azure</b>
