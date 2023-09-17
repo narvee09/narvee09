@@ -8,7 +8,10 @@
    <!---Developer enviornment--->
 
 - <b>Microsoft Azure</b>
+  -  Configuring Active Directory within Azure
+  -  Network Protocols and Network Security Groups
   -  Network File sharing and permissions
+  <!---  Building DNS--->
 
 - <b>osTicket (Help Desk Ticketing System)</b>
     -  <a href = https://github.com/narvee09/osTicket-installation>osTicket: Installation</a>
