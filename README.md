@@ -2,7 +2,7 @@
 
 <h2>🧙‍♂️ IT and Software Development Lab:</h2>
 
-- <b>Virtual Resources</b>
+- <b>Resource Virtualization</b>
   - <a href = https://github.com/narvee09/Server-Creation-DC> Server Creation (Domain Controller)</a>
   - <a href = https://github.com/narvee09/Client-Creation-VM-> Client Creation (Virtual Machine) </a>
    <!---Developer enviornment--->
