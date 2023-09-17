@@ -12,7 +12,7 @@
 
 - <b>osTicket (Help Desk Ticketing System)</b>
     -  <a href = https://github.com/narvee09/osTicket-installation>osTicket: Installation</a>
-    -  osTicket: Post-Installation Configuration
+    -  <a href = https://github.com/narvee09/osTicket-Post-Install-Configuration>osTicket: Post-Installation Configuration</a>
     -  osTicket: Examples
 
  <h2>Cybersecurity Projects</h2>
