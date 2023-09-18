@@ -8,7 +8,8 @@
    <!---Developer enviornment--->
 
 - <b>Microsoft Azure</b>
-  -  Configuring Active Directory within Azure
+
+  -  Active Directory Configuration
   -  Network Protocols and Network Security Groups
   -  Network File sharing and permissions
   <!---  Building DNS--->
