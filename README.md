@@ -31,13 +31,13 @@
 - <b>PowerShell</b>
   
  
-<b>Journey app (WIP)</b>
+<b>Journey app (WIP)</b>--->
 
-<h2> 🤳 Connect with me:</h2>
-
-
+<h2>🤝<a href="www.linkedin.com/in/adriancarter-in"> Connect with me:</a></h2>
 
 
-[linkedin]: www.linkedin.com/in/adriancarter-in
+
+
+<!--[linkedin]: www.linkedin.com/in/adriancarter-in-->
 
 
