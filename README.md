@@ -4,7 +4,7 @@
 
 - <b>Resource Virtualization</b>
   - <a href = https://github.com/narvee09/Server-Creation-DC/blob/main/README.md> Server Creation (Domain Controller)</a>
-  - <a href = https://github.com/narvee09/Client-Creation-VM-> Client Creation (Virtual Machine) </a>
+  - <a href = https://github.com/narvee09/Client-Creation-VM-/blob/main/README.md> Client Creation (Virtual Machine) </a>
    <!---Developer enviornment--->
 
 - <b>Microsoft Azure</b>
@@ -15,7 +15,7 @@
   <!---  Building DNS--->
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-    -  <a href = https://github.com/narvee09/osTicket-installation>osTicket: Installation</a>
+    -  <a href = https://github.com/narvee09/osTicket-installation/blob/main/README.md>osTicket: Installation</a>
     -  <a href = https://github.com/narvee09/osTicket-Post-Install-Configuration>osTicket: Post-Installation Configuration</a>
     -  <a href = https://github.com/narvee09/osTicket-Examples>osTicket: Examples</a>
 
