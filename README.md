@@ -33,7 +33,7 @@
  
 <b>Journey app (WIP)</b>--->
 
-<h2>🤝<a href="www.linkedin.com/in/adriancarter-in"> Connect with me:</a></h2>
+<h2>🤝Connect with me:</h2>
 
 
 
