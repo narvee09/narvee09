@@ -1,6 +1,6 @@
 <h1>Hi, I'm Adrian! 
 
-<h2>🧙‍♂️ IT and Software Development Lab:</h2>
+<h2> IT and Software Development Lab:</h2>
 
 - <b>Resource Virtualization</b>
   - <a href = https://github.com/narvee09/Server-Creation-DC/blob/main/README.md> Server Creation (Domain Controller)</a>
